@@ -1,0 +1,12 @@
+
+.block4{
+    padding: 20px; /* Поля  вокруг текста */
+    background: #ebe9e9; /* фон внутри блока */
+    border:2px solid gray; /*цвет и толщина границы */
+    border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
+    width: 330px; /* ширина блока */
+    padding-top: 4px; /*отступ текста сверху */
+    padding-bottom: 1px;
+    color: rgb(141, 141, 141); 
+    margin-left: 25em;
+  }

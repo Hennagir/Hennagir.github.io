@@ -1,0 +1,71 @@
+body {
+
+    font-family: Arial; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #333; /* Цвет основного текста */ 
+    
+  }
+  h3{
+    background: #ebe9e9; /* Цвет фона */
+    border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+    border-radius: 400px;
+    color: rgb(184, 184, 184); /* Цвет текста */
+    padding: 7px; /* Поля вокруг текста */
+    width: 450px; /* Ширина блока */
+    
+    margin-right: 20px; /* Поля  вокруг элемента */
+    right: -5px;
+    margin-left: 368px;
+    font-size: 13pt;
+  }
+  .menucite{
+    padding: 20px; /* Поля  вокруг текста */
+    background: #ebe9e9; /* фон внутри блока */
+    border:2px solid gray; /*цвет и толщина границы */
+    border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
+    width: 150px; /* ширина блока */
+    padding-top: 4px; /*отступ текста сверху */
+    
+    color: rgb(184, 184, 184);
+    margin-left: 0em;
+    
+    height: 500px;
+   /*Абсолютное позицирование */
+    position: absolute;
+    overflow: auto;
+    bottom: 100px; 
+    
+  
+  }
+  .menucite li{
+    margin-top: 20px;
+  
+    background: #ebe9e9; /* Цвет фона */
+      border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+      border-radius: 400px;
+      color: rgb(184, 184, 184); /* Цвет текста */
+      padding: 7px; /* Поля вокруг текста */
+      width: 100px; /* Ширина блока */
+     
+  }
+  .menucite a{
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+    
+  }
+  h4{
+    background: #ebe9e9; /* Цвет фона */
+    border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+    border-radius: 400px;
+    color: rgb(184, 184, 184); /* Цвет текста */
+    padding: 7px; /* Поля вокруг текста */
+    width: 400px; /* Ширина блока */
+    margin-right: 20px; /* Поля  вокруг элемента */
+    right: -5px;
+    margin-left: 368px;
+    font-size: 13pt;
+   
+  }
+
+  

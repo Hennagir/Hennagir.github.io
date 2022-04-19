@@ -1,0 +1,81 @@
+body {
+
+    font-family: Arial; /* Семейство шрифтов */
+    font-size: 11pt; /* Размер основного шрифта в пунктах  */
+    background-color: #f0f0f0; /* Цвет фона веб-страницы */
+    color: #333; /* Цвет основного текста */ 
+    
+  }
+  h3{
+    background: #ebe9e9; /* Цвет фона */
+    border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+    border-radius: 400px;
+    color: rgb(184, 184, 184); /* Цвет текста */
+    padding: 7px; /* Поля вокруг текста */
+    width: 450px; /* Ширина блока */
+    
+    margin-right: 20px; /* Поля  вокруг элемента */
+    right: -5px;
+    margin-left: 368px;
+    font-size: 13pt;
+  }
+  .menucite{
+    padding: 20px; /* Поля  вокруг текста */
+    background: #ebe9e9; /* фон внутри блока */
+    border:2px solid gray; /*цвет и толщина границы */
+    border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
+    width: 150px; /* ширина блока */
+    padding-top: 4px; /*отступ текста сверху */
+    padding-bottom: 1px;
+    color: rgb(184, 184, 184);
+    margin-left: 0em;
+    margin-bottom: 50px;
+    height: 500px;
+    position: fixed;
+    /*Абсолютное позицирование */
+    position: absolute;
+    overflow: auto;
+    bottom: 80px; 
+    
+  }
+  .menucite li{
+    margin-top: 20px;
+  
+    background: #ebe9e9; /* Цвет фона */
+      border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+      border-radius: 400px;
+      color: rgb(184, 184, 184); /* Цвет текста */
+      padding: 7px; /* Поля вокруг текста */
+      width: 100px; /* Ширина блока */
+  
+  }
+  .menucite a{
+    text-decoration: none;
+    color: rgb(150, 150, 150);
+  }
+  h4{
+    background: #ebe9e9; /* Цвет фона */
+    border: 2px dashed rgb(184, 184, 184); /* Рамка вокруг заголовка */
+    border-radius: 400px;
+    color: rgb(184, 184, 184); /* Цвет текста */
+    padding: 7px; /* Поля вокруг текста */
+    width: 400px; /* Ширина блока */
+    margin-right: 20px; /* Поля  вокруг элемента */
+    right: -5px;
+    margin-left: 368px;
+    font-size: 13pt;
+    
+  }
+  .block1{
+    padding: 20px; /* Поля  вокруг текста */
+    background: #ebe9e9; /* фон внутри блока */
+    border:2px solid gray; /*цвет и толщина границы */
+    border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
+    width: 330px; /* ширина блока */
+    padding-top: 4px; /*отступ текста сверху */
+    padding-bottom: 4px;
+    color: rgb(141, 141, 141);
+    margin-left: 24em;
+    font-size: 12pt;
+  
+  }

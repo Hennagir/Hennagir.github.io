@@ -43,11 +43,11 @@ body {
   background: #ebe9e9; /* фон внутри блока */
   border:2px solid gray; /*цвет и толщина границы */
   border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
-  width: 330px; /* ширина блока */
+  width: 25%; /* ширина блока */
   padding-top: 4px; /*отступ текста сверху */
   padding-bottom: 4px;
   color: rgb(184, 184, 184);
-  margin-left: 25em;
+  margin-left: 28%;
 
 }
 
@@ -56,11 +56,11 @@ body {
   background: #ebe9e9; /* фон внутри блока */
   border:2px solid gray; /*цвет и толщина границы */
   border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
-  width: 330px; /* ширина блока */
+  width: 25%; /* ширина блока */
   padding-top: 4px; /*отступ текста сверху */
-  padding-bottom: 1px;
-  color: rgb(184, 184, 184); 
-  margin-left: 25em;
+  padding-bottom: 4px;
+  color: rgb(184, 184, 184);
+  margin-left: 28%;
   
 }
 
@@ -73,13 +73,13 @@ body {
   background: #ebe9e9; /* фон внутри блока */
   border:2px solid gray; /*цвет и толщина границы */
   border:2px dashed rgb(184, 184, 184); /*Ширина<>Пунктир вокруг поля */
-  width: 150px; /* ширина блока */
+  width: 10%; /* ширина блока */
   padding-top: 4px; /*отступ текста сверху */
   padding-bottom: 1px;
   color: rgb(184, 184, 184);
   margin-left: 0em;
   margin-bottom: 50px;
-  height: 500px;
+  height: 70%;
   position: fixed;
   
 
